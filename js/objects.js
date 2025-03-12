@@ -125,8 +125,6 @@ let person3 = { // Renamed to avoid duplicate "person2"
 
 /* STEP 11b: Call up both person1.hello() and person2.hello() 
 in the console to see how 'this' is specific to each object */
-console.log(person1.hello());
-console.log(person3.hello());
 
 // You have already been using objects all along:
 let myString = 'Words, words, words.'; 
